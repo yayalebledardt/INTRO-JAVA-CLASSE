@@ -32,13 +32,3 @@ C'est le véhicule réel fabriqué à partir du moule. [cite_start]`v1` est un o
 [cite_start]C'est le bloc de code qui permet d'initialiser les caractéristiques d'un objet dès sa création. [cite: 95]
 
 ---
-
-## 🚀 Comment utiliser ce projet ?
-
-1.  [cite_start]**Ouvrir le projet :** Utilise un logiciel comme **NetBeans**. [cite: 40]
-2.  **Créer une voiture :** Grâce au constructeur, tu peux ajouter un véhicule facilement dans le `Main` :
-    ```java
-    Voiture maVoiture = new Voiture("Toyota", "Yaris", 2015, 9800);
-    [cite_start]
-http://googleusercontent.com/immersive_entry_chip/0
-http://googleusercontent.com/immersive_entry_chip/1
