@@ -1,4 +1,3 @@
-C'est noté ! J'ai supprimé toutes les balises de citation pour que tu puisses copier-coller le texte directement dans ton fichier `README.md` sur GitHub.
 
 ---
 
